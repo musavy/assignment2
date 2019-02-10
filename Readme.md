@@ -4,7 +4,7 @@ My homework
 
 # Assignment2
 
-[myproject](https://musavy.github.io/Myproject/)
+[Assignment2](https://musavy.github.io/Assignment2/)
 
 # Technologies
 
